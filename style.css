@@ -1,0 +1,16 @@
+canvas {
+	border: 1px solid black;
+}
+
+#checkButton {
+	background-color: rgba(61, 193, 211, 1.0);
+	width: 100%;
+	height: 100px;
+	margin-top: 10px;
+	font-size: 3rem;
+	letter-spacing: 1rem;
+	font-weight: bold;
+	opacity: 0.8;
+	border-radius: 10px;
+	outline: none;
+}
